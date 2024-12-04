@@ -67,8 +67,8 @@ A: Yes, the plugin works with all payment gateways supported by WooCommerce Subs
 
 For support, please:
 1. Create an issue in this repository
-2. Email: support@codesfix.com
-3. Visit our website: [CodesFix.com](https://codesfix.net)
+2. Email: info@codesfix.net
+3. Visit our website: [CodesFix.net](https://codesfix.net)
 
 ## Contributing
 
